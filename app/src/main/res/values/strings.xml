@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BackgroundLocation</string>
+    <string name="current_location">Latitude: %s, Longitude: %s</string>
+    <string name="get_back">Please Restart The app!</string>
+</resources>
